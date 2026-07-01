@@ -31,6 +31,48 @@ The result is both a working demo and an evaluation platform for comparing retri
 - Offline evaluation for ranking metrics, highlight quality, and embedding model comparisons.
 - Presentation deck included in the repository for a concise project walkthrough.
 
+## Demo
+
+Polished UI & layout. 3 retrieval modes provided to the user:
+
+
+
+https://github.com/user-attachments/assets/43fba0ec-2ebe-4b1a-ac21-1e725788b329
+
+
+
+Ask a question to the LLM and get an answer using exclusively the results as context:
+
+
+
+https://github.com/user-attachments/assets/80ad55f3-41f4-4589-82d1-cb7702d94fd2
+
+
+
+Highlight the phrases that are most relevant to the query in each result:
+
+
+
+https://github.com/user-attachments/assets/4436c995-a2fa-418e-80f1-4fd17324d034
+
+
+
+Get feedback on the relevancy of each result to the query, as well as overall relevancy metrics:
+
+
+
+https://github.com/user-attachments/assets/fdd35089-97c8-47c4-8cd0-bfd915fd0b8c
+
+
+
+Generate a query-aware summary of the information in the top results:
+
+
+
+https://github.com/user-attachments/assets/0c1b26d8-44a4-417e-816d-07a26b8611ef
+
+
+
 ## How It Works
 
 The main app lives in `engine/` and exposes a transcript search interface with live updates. Users can switch search modes, inspect ranked results, and use the LLM panel to explore the retrieved evidence.
