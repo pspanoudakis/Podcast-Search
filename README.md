@@ -2,7 +2,7 @@
 
 A course project for information retrieval that turns a large podcast transcript corpus into a searchable product. The system combines lexical retrieval, semantic vector search, hybrid ranking, and LLM-assisted result exploration in a single web app.
 
-This system was built as part of the DD2477 Information Retrieval project.
+This system was built as part of the project for the course DD2477 Search Engines and Information Retrieval Systems at KTH.
 
 ## Team Members
 - [Daniel Ruijs](https://github.com/danielruijs)
